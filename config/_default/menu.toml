@@ -1,0 +1,17 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[main]]
+    name = "About"
+    url = "https://qianjunakasumi.moe/about"
+    weight = 2
+    identifier = "about"
+    [main.params]
+        icon = "user"
+        newTab = false

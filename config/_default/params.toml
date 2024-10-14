@@ -1,0 +1,94 @@
+# Pages placed under these sections will be shown on homepage and archive page.
+mainSections = ["post"]
+# Output page's full content in RSS.
+rssFullContent = true
+favicon = "/favicon-32x32.png"
+
+[footer]
+since = 2024
+customText = "<a href=\"https://icp.gov.moe/?keyword=20232034\" title=\"萌ICP备20232034号\">萌ICP备20232034号</a>"
+
+[dateFormat]
+published = "Jan 02, 2006"
+lastUpdated = "Jan 02, 2006 15:04 MST"
+
+[sidebar]
+emoji = "🍙"
+subtitle = "<a href=\"https://qianjunakasumi.moe\" title=\"qianjunakasumi's home page\">@qianjunakasumi</a>, a laid-back blog about programming, CTF, system architecture, design, daily, and more."
+
+[sidebar.avatar]
+enabled = true
+local = false
+src = "https://avatars.githubusercontent.com/u/53565118?v=4"
+
+[article]
+headingAnchor = false
+math = false
+readingTime = true
+
+[article.license]
+enabled = false
+default = "&copy; QIANJUNAKASUMI.MOE 2024"
+
+## Widgets
+[[widgets.homepage]]
+type = "search"
+
+[[widgets.homepage]]
+type = "archives"
+
+[widgets.homepage.params]
+limit = 3
+
+[[widgets.homepage]]
+type = "categories"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.homepage]]
+type = "tag-cloud"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.page]]
+type = "toc"
+
+[opengraph.github]
+site = "qianjunakasumi"
+
+[opengraph.twitter]
+site = "qianjunakasumi"
+card = "summary_large_image"
+
+[defaultImage.opengraph]
+enabled = true
+local = false
+src = "https://avatars.githubusercontent.com/u/53565118?v=4"
+
+[colorScheme]
+toggle = true
+default = "auto"
+
+[imageProcessing.cover]
+enabled = true
+
+[imageProcessing.content]
+enabled = true
+
+## Comments
+[comments]
+enabled = true
+provider = "giscus"
+
+[comments.giscus]
+repo = "qianjunakasumi/comments.blog.qianjunakasumi.moe"
+repoID = "R_kgDOM_yDeA"
+category = "Announcements"
+categoryID = "DIC_kwDOM_yDeM4CjVHi"
+mapping = "og:title"
+lightTheme = "noborder_light"
+darkTheme = "noborder_dark"
+reactionsEnabled = 1
+emitMetadata = 0
