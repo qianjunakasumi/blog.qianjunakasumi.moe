@@ -4,6 +4,7 @@ description: '[ The first post??? ] 【第一篇文章???】「最初の記事??
 slug: hello-world
 keywords:
     - helloworld
+    - 你好世界
     - qianjunakasumi
 date: 2024-10-14 12:00:00+0900
 image: cover.jpg
