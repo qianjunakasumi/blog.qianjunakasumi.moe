@@ -71,7 +71,8 @@ incredible works, this blog wouldn't have been possible.
 もしこのイラストが気に入ったら、ぜひ[「ゆめねこ🌸」様のホームページ](https://www.pixiv.net/users/28223718)もチェックしてみてくださいね！
 和风狐娘かわいい！🥰
 
-Here is the illustration "透" by [ゆめねこ🌸](https://www.pixiv.net/users/28223718). If you like this illustration, please
+Here is the illustration "[透](https://www.pixiv.net/artworks/99008516)" by
+[ゆめねこ🌸](https://www.pixiv.net/users/28223718). If you like this illustration, please
 [check out ゆめねこ🌸's homepage](https://www.pixiv.net/users/28223718)!
 
 [![透・ゆめねこ🌸](cover.jpg)](https://www.pixiv.net/artworks/99008516)
