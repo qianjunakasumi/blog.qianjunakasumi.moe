@@ -1,5 +1,5 @@
 ---
-title: CTF
+title: [BLANK]
 image:
 style:
     background: "#96514d"
